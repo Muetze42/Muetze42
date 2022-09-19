@@ -70,7 +70,5 @@ A few infos....
 
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Muetze42)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 ---
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
