@@ -35,7 +35,7 @@ A few infos....
 ![Webpack](https://img.shields.io/badge/Webpack-4c1d95?style=for-the-badge&logo=Webpack&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899&layout=compact)
 
 ![Adobe CC](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -63,6 +63,8 @@ A few infos....
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Muetze42&theme=radical&background=0F172A&currStreakNum=EC4899&fire=EC4899&currStreakLabel=EC4899&sideLabels=EC4899)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899)
 
