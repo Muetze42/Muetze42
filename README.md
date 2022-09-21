@@ -6,7 +6,7 @@ A few infos....
 
 * 📫 Ways to reach me are listed on [huth.it](https://huth.it/)
 * 🐶 I’ve a [dog](https://www.instagram.com/p/CDCauMmJD3P/)
-* 🏢 I’m employed as a developer at [Reaze](https://www.reaze.com/)
+* 🏢 I’m employed as a developer at [reaze](https://www.reaze.com/) - Digital things with sense
 * 💻 I use a Windows Laptop for my work and a Mac Book Pro when I work for my employer
 * 🧬 My favorite IDE is [PhpStorm](https://www.jetbrains.com/de-de/phpstorm/) by [JetBrains](https://www.jetbrains.com/)
 
