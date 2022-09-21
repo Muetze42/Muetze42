@@ -1,4 +1,4 @@
-#ää Hi there 👋
+### Hi there 👋
 
 I’m Norman Huth from Germany.
 
