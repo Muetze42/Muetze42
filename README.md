@@ -8,7 +8,7 @@ A few infos....
 * 🐶 I’ve a [dog](https://www.instagram.com/p/CDCauMmJD3P/)
 * 🏢 I’m employed as a developer at [Reaze](https://www.reaze.com/)
 * 💻 I use a Windows Laptop for my work and a Mac Book Pro when I work for my employer
-* 🧬 My favorite IDE is [PhpStorm](https://www.jetbrains.com/de-de/phpstorm/) from [JetBrains](https://www.jetbrains.com/)
+* 🧬 My favorite IDE is [PhpStorm](https://www.jetbrains.com/de-de/phpstorm/) by [JetBrains](https://www.jetbrains.com/)
 
 ### Tech-Stack (alphabetic)
 
