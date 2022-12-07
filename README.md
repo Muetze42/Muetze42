@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Norman Huth from Germany.
+I’m Norman from Germany.
 
 A few infos....
 
