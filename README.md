@@ -12,12 +12,6 @@ A few infos....
 
 ---
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-
-[![Woman. Life. Freedom.](https://raw.githubusercontent.com/Muetze42/Muetze42/2033b219c6cce0cb656c34da5246434c27919bcd/files/iran-banner-big.svg)](https://linktr.ee/CurrentPetitionsFreeIran)
-
----
-
 ### Tech-Stack (alphabetic)
 
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://www.apache.org/)
@@ -59,3 +53,9 @@ A few infos....
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899)
 
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Muetze42)
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
+[![Woman. Life. Freedom.](https://raw.githubusercontent.com/Muetze42/Muetze42/2033b219c6cce0cb656c34da5246434c27919bcd/files/iran-banner-big.svg)](https://linktr.ee/CurrentPetitionsFreeIran)
+
+---
