@@ -49,6 +49,7 @@ A few infos....
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/wordpress.svg?h=41c3f30f69579236f31981adda6903c5" alt="WordPress" title="WordPress" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
 </div>
 
+
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Muetze42&theme=radical&background=0F172A&currStreakNum=EC4899&fire=EC4899&currStreakLabel=EC4899&sideLabels=EC4899)
