@@ -14,37 +14,40 @@ A few infos....
 
 ### Tech-Stack (alphabetic)
 
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://www.apache.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.de.html#:~:text=Cascading%20Style%20Sheets%20(CSS)%20ist,und%20%C3%BCber%20diesbez%C3%BCglich%20verf%C3%BCgbare%20Software.)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Ext JS](https://img.shields.io/badge/Ext%20JS-%2386BC40.svg?style=for-the-badge&logo=sencha&logoColor=white)](https://www.sencha.com/products/extjs/)
-[![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
-[![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/)
-[![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)](https://laravel-livewire.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Pimcore](https://img.shields.io/badge/pimcore-%236428B4.svg?style=for-the-badge&logo=pimcore&logoColor=white)](https://pimcore.com/)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](https://symfony.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-[![Webpack](https://img.shields.io/badge/Webpack-4c1d95?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/)
-[![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/apache.svg?h=38f17ca6295386a9799293f6d1c4e124" alt="Apache" title="Apache" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/bootstrap.svg?h=cf4fda4598fd4871426df42381cb9dd1" alt="Bootstrap" title="Bootstrap" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/chartdotjs.svg?h=7a163b6bc0006ab3944c67d306fc3704" alt="Chart.js" title="Chart.js" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/css3.svg?h=d745b26845b3b53801a4569d1dd972e4" alt="CSS3" title="CSS3" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/docker.svg?h=fc8ce7bc3400517b5c20998b2c21de0a" alt="Docker" title="Docker" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/sencha.svg?h=573f08c763bd07b45296a1848b7a4b3f" alt="Ext JS" title="Ext JS" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/fontawesome.svg?h=c81534a5610979f64242dfa829ce9cec" alt="FontAwesome" title="FontAwesome" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/gulp.svg?h=1451940655bed12652ae1c4f0798b185" alt="Gulp" title="Gulp" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/html5.svg?h=b2879f6f5f28bbb4df2b9100b871b49d" alt="HTML5" title="HTML5" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/javascript.svg?h=fbc87adae2345f80fb344b8c8cc4282a" alt="JavaScript" title="JavaScript" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/jquery.svg?h=678d5bb4bb02a9f605a6745063a020d0" alt="jQuery" title="jQuery" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/json.svg?h=c3c68788ef03b2fb247ea4f1607b6055" alt="JSON" title="JSON" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/laravel.svg?h=5a3bfb20d10d370db5f3f9d5d9f726de" alt="Laravel" title="Laravel" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/less.svg?h=631cc67036aa3f776d6778a8e972ef2b" alt="Less" title="Less" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/livewire.svg?h=db622bb89e952679b88a4fad884a0443" alt="Livewire" title="Livewire" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/mariadb.svg?h=51e66f08cc30c775bec9d885c07cff34" alt="MariaDB" title="MariaDB" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/mysql.svg?h=4c820a5f5e44f004114790c85d22d2a3" alt="MySQL" title="MySQL" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/nginx.svg?h=33b00e746721094456f44827f7eecd5c" alt="nginx" title="nginx" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/nodedotjs.svg?h=498e5d7b3ac6183c43d5ac3a878a73ec" alt="Node.js" title="Node.js" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/npm.svg?h=293ed054f47f6e4be89aafc3ef63d54e" alt="NPM" title="NPM" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/php.svg?h=b164e3fb29899b0da3dcec355d53a065" alt="PHP" title="PHP" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/pimcore.svg?h=3e3e2bbe4dfee76df5347e74b99f6b2f" alt="Pimcore" title="Pimcore" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/redis.svg?h=d5f8f50ab788423ac5e8d19baecddc18" alt="Redis" title="Redis" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/sass.svg?h=39228acbe5b34d81168ca464d0a4a3d5" alt="SASS" title="SASS" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/sqlite.svg?h=b922fe4f7abdecbb3655ecbd2726a19d" alt="SQLite" title="SQLite" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/symfony.svg?h=822beabaffbbe0952a4bbd8996178e7e" alt="Symfony" title="Symfony" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/tailwindcss.svg?h=5d6654b391911ac4dfc63eaa02587a81" alt="Tailwind CSS" title="Tailwind CSS" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/vite.svg?h=c1a629dd8d58c6bb8c925db33a97b930" alt="Vite" title="Vite" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/vuedotjs.svg?h=22c03fba02f17b0c6d4944677452c595" alt="Vue.js" title="Vue.js" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/webpack.svg?h=5ae97c0060fca687707e6d524c24ecfa" alt="Webpack" title="Webpack" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+<img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/wordpress.svg?h=41c3f30f69579236f31981adda6903c5" alt="WordPress" title="WordPress" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
+</div>
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899&layout=compact)
 
