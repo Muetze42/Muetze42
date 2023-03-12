@@ -14,8 +14,6 @@ A few infos....
 
 ### Tech-Stack (alphabetic)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/apache.svg?h=38f17ca6295386a9799293f6d1c4e124" alt="Apache" title="Apache" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/bootstrap.svg?h=cf4fda4598fd4871426df42381cb9dd1" alt="Bootstrap" title="Bootstrap" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/chartdotjs.svg?h=7a163b6bc0006ab3944c67d306fc3704" alt="Chart.js" title="Chart.js" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
@@ -47,8 +45,10 @@ A few infos....
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/vuedotjs.svg?h=22c03fba02f17b0c6d4944677452c595" alt="Vue.js" title="Vue.js" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/webpack.svg?h=5ae97c0060fca687707e6d524c24ecfa" alt="Webpack" title="Webpack" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/wordpress.svg?h=41c3f30f69579236f31981adda6903c5" alt="WordPress" title="WordPress" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
-</div>
 
+---
+
+### GitHub Stats
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899&layout=compact)
 
@@ -57,9 +57,8 @@ A few infos....
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899)
 
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Muetze42)
+---
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 [![Woman. Life. Freedom.](https://raw.githubusercontent.com/Muetze42/Muetze42/2033b219c6cce0cb656c34da5246434c27919bcd/files/iran-banner-big.svg)](https://linktr.ee/CurrentPetitionsFreeIran)
-
----
