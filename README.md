@@ -12,7 +12,7 @@ A few infos....
 
 ---
 
-### Tech-Stack (alphabetic)
+### Tech-Stack (Alphabetic / Excerpt)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
 
