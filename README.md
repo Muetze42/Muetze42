@@ -10,6 +10,8 @@ A few infos....
 * 💻 I use a Windows Laptop for my work and a Mac Book when I work for my employer
 * 🧬 My favorite IDE is [PhpStorm](https://www.jetbrains.com/de-de/phpstorm/) by [JetBrains](https://www.jetbrains.com/)
 
+<!--
+
 ---
 
 ### Tech-Stack (Alphabetic / Excerpt)
@@ -50,6 +52,8 @@ A few infos....
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/webpack.svg?h=796f6b55f24da0f03d1e1e53ebf91cee" alt="Webpack" title="Webpack" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
 <img src="https://raw.githubusercontent.com/Muetze42/badges/main/assets/wordpress.svg?h=af15c91d44ea3c143f059a07209e460e" alt="WordPress" title="WordPress" style="width: 210px; height: 30px; margin-right: 0.5rem; margin-bottom: 0.5rem; border-radius: 0.25rem">
 </div>
+
+-->
 
 ---
 
