@@ -15,7 +15,7 @@ A few infos....
 ---
 
 <p align="center">
-<a href="https://github.com/Muetze42/Muetze42/issues/new/choose" target="_blank">„Ask A Question“ or „Package Or App Idea/Request.“ on GitHub</a>
+<a href="https://github.com/Muetze42/Muetze42/issues/new/choose" target="_blank">„Ask A Question“ or „Package Or App Idea/Request“ on GitHub</a>
 </p>
 
 <!--
