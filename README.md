@@ -6,8 +6,6 @@ A few infos....
 
 * 📫 Ways to reach me are listed on [huth.it](https://huth.it/)
 * 🐶 I’ve a [dog](https://www.instagram.com/p/CDCauMmJD3P/)
-* 🏢 I’m a `Backend Core Developer` at [reaze](https://www.reaze.com/) - ${\color{#50f478}Digital}$ ${\color{#50f478}things}$ ${\color{#50f478}with}$ ${\color{#50f478}sense}$
-* 💻 I use a Windows Laptop for my work and a MacBook when I work for my employer
 * 🧬 My favorite IDE is [PhpStorm](https://www.jetbrains.com/de-de/phpstorm/) by [JetBrains](https://www.jetbrains.com/)
 * 🪟 I never created a final class
 
