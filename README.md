@@ -8,6 +8,8 @@ A few infos....
 * 🐶 I’ve a [dog](https://www.instagram.com/p/CDCauMmJD3P/)
 * 🧬 My favorite IDE is [PhpStorm](https://www.jetbrains.com/de-de/phpstorm/) by [JetBrains](https://www.jetbrains.com/)
 * 🪟 I never created a final class
+* I save a lot of time with the [Tinkerwell](https://tinkerwell.app/ref/Qdxy2Abv19) tool
+* I work as a developer for [KOSATEC Computer GmbH](https://www.linkedin.com/company/kosatec-computer-gmbh/)
 
 ---
 
