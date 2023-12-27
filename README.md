@@ -4,7 +4,7 @@ I’m Norman from Germany.
 
 A few infos....
 
-* 📫 Ways to reach me are listed on [huth.it](https://huth.it/)
+* 📫 Ways to reach me are listed on [huth.it](https://huth.it/) or start a [Discussion](https://github.com/Muetze42/Muetze42/discussions)
 * 🐶 I’ve a [dog](https://www.instagram.com/p/CDCauMmJD3P/)
 * 🧬 My favorite IDE is [PhpStorm](https://www.jetbrains.com/de-de/phpstorm/) by [JetBrains](https://www.jetbrains.com/)
 * 🪟 I never created a final class
@@ -13,9 +13,7 @@ A few infos....
 
 ---
 
-<p align="center">
-<a href="https://github.com/Muetze42/Muetze42/issues/new/choose" target="_blank">„Ask A Question“ or „Package Or App Idea/Request“ on GitHub</a>
-</p>
+[„Ask A Question“, „Package Or App Idea/Request“ and other topics](https://github.com/Muetze42/Muetze42/discussions)
 
 ---
 
