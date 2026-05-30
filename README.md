@@ -23,5 +23,5 @@ A few infos....
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muetze42&bg_color=0f172a&title_color=f1f5f9&text_color=ec4899)-->
 
-![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Muetze42)
+<!-- ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Muetze42) -->
 
